@@ -1,6 +1,7 @@
 # ElonMusk-Money
 
 Spend Elon Musk money
+(not for mobile)
 
 Made this just to revise JS
 
