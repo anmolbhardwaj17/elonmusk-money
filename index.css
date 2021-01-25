@@ -1,0 +1,115 @@
+* {
+  text-align:center;
+  font-family:Inter;
+  margin:0;
+}
+img {
+  width:320px;
+  border-radius:12px 12px 0px 0px;
+}
+.main{
+  padding-top:40px;
+  padding-bottom:40px;
+  text-align: center;
+  margin:auto;
+  width:80%;
+  display:flex;
+  justify-content: space-around;
+}
+.elon{
+  position:fixed;
+  background-color:rgb(41, 41, 41);
+  width:100%;
+  display:flex;
+  justify-content: space-between;
+}
+
+#logo{
+  width:240px;
+  padding:16px;
+  border:none;
+}
+
+#usd{
+  margin:auto 12px;
+  color:white;
+}
+
+.heading{
+  position:fixed;
+  text-align:center;
+  width:100%;
+}
+#net{
+  padding-top:20px;
+  color:white;
+}
+#top{
+  padding-top:100px;
+}
+button{
+  border:none;
+  padding:12px 24px;
+  background-color: rgb(67, 148, 219);
+  margin:20px;
+  color:white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+p{
+  padding-top:8px;
+  padding-bottom:8px;
+}
+
+.name{
+  font-weight:700;
+  font-size:24px;
+}
+
+.world{
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+  border-radius:12px;
+}
+.iphone{
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+  border-radius:12px;
+}
+.burj{
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+  border-radius:12px;
+}
+.moon{
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+  border-radius:12px;
+}
+.roadster{
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+  border-radius:12px;
+}
+.mars-land{
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+  border-radius:12px;
+}
+.model-s{
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+  border-radius:12px;
+}
+.falcon{
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+  border-radius:12px;
+}
+.ferrari{
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+  border-radius:12px;
+}
+
+.footer a{
+  text-decoration:none;
+  font-weight:500;
+  text-align:center;
+  color:white;
+}
+.footer{
+  height:32px;
+  background-color:rgb(41, 41, 41);
+}
